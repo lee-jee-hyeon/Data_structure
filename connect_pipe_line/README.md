@@ -9,11 +9,17 @@
 # Data structure 
 '''
 pseudo_code 
+
 algorithm LinkedList(head ,tail ,before ,current)
+
 Input
+
 Output
+
 pipeline count <-0
+
 loop(not end of data)do
+
 	read pipe
 
 	if(pipe > 10)
